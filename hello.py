@@ -3,5 +3,5 @@ def write_hello():
 
 
 # this is nonsens code
-jihed = "jihed"
-jihed = jihed
+#jihed = "jihed"
+#jihed = jihed
